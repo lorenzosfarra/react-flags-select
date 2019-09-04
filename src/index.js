@@ -9,7 +9,7 @@ class ReactFlagsSelect extends Component {
 		const defaultCountry = countries[this.props.defaultCountry] && this.props.defaultCountry;
 
 		this.state = {
-			openOptions: false,
+			openOptions: this.props.openOptions || false,
 			defaultCountry,
 			filteredCountries: []
 		}
