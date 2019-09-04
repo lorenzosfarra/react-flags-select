@@ -36,14 +36,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ekwonye-richard/react-flags-select.git"
+    "url": "git+https://github.com/lorenzosfarra/react-flags-select.git"
   },
   "author": "Richard Ekwonye",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ekwonye-richard/react-flags-select/issues"
+    "url": "https://github.com/lorenzosfarra/react-flags-select/issues"
   },
-  "homepage": "https://github.com/ekwonye-richard/react-flags-select#readme",
+  "homepage": "https://github.com/lorenzosfarra/react-flags-select#readme",
   "keywords": [
     "react-component"
   ]
